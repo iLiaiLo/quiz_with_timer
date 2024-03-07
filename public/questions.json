@@ -1,0 +1,103 @@
+[
+    {
+        "question":"What is sum of angles of treeangle?",
+        "key":0,
+        "answers":[
+            {"answer":"100deg","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"120deg","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"180deg","iscorrect":true,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"90deg","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"How many vertex has a rectangular prism?",
+        "key":1,
+        "answers":[
+            {"answer":"10","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"12","iscorrect":true,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"14","iscorrect":false,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"16","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"What is sin(90deg)?",
+        "key":2,
+        "answers":[
+            {"answer":"0","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"0.5","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"1","iscorrect":true,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"-1","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"What is the correct formula to calculate area of circle?",
+        "key":3,
+        "answers":[
+            {"answer":"pi*r","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"2*pi*r","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"pi*r^2","iscorrect":true,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"r*pi^2","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"What is the sum of -1+1-1+1-1....?",
+        "key":4,
+        "answers":[
+            {"answer":"0","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"1","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"-1","iscorrect":false,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"does not exist","iscorrect":true,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"What is the sum of 1/2+1/4+1/8....?",
+        "key":5,
+        "answers":[
+            {"answer":"1","iscorrect":true,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"2","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"Infinity","iscorrect":false,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"does not exist","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"How many subsets have {1,2,3,4,5,6} set?",
+        "key":6,
+        "answers":[
+            {"answer":"6","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"24","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"64","iscorrect":true,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"36","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"What is the angle of equilateral octagon?",
+        "key":7,
+        "answers":[
+            {"answer":"110 degree","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"135 degree","iscorrect":true,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"200 degre","iscorrect":false,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"165 degree","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"Which one is equivalent statement of this statement:\n if I walk then I reach the point",
+        "key":8,
+        "answers":[
+            {"answer":"if I reach the point then I walk","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"if I don't walk then I don't reach the point","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"if I don't reach the point then I don't walk","iscorrect":true,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"none of them above","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    },
+    {
+        "question":"How can we represent (a+b)^3?",
+        "key":9,
+        "answers":[
+            {"answer":"a^3 + 2*ab + b^3","iscorrect":false,"id":1,"style":"lightgreen","checked":false},
+            {"answer":"a^3 + b^3","iscorrect":false,"id":2,"style":"lightgreen","checked":false},
+            {"answer":"a^3 + 3a^2*b + 3a*b^2 + b^3 ","iscorrect":true,"id":3,"style":"lightgreen","checked":false},
+            {"answer":"a^3 + b^3 + (ab)^3","iscorrect":false,"id":4,"style":"lightgreen","checked":false}
+        ]
+    }
+
+]
